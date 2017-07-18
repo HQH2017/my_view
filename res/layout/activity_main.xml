@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" xmlns:app="http://schemas.android.com/apk/res/com.example.my_ui">
+
+    <com.example.my_ui.Topbar 
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        custom:leftBackground="@color/orange"
+        custom:leftTitle="返回"
+        custom:leftTitleColor="@color/red"
+        custom:rightBackground="@color/orange"
+        custom:rightTitle="前进"
+        custom:rightTitleColor="@color/red"
+        custom:title="自定义view标题"
+        custom:titleTextColor="@color/blue"
+        custom:titleTextSize="8sp"
+        ></com.example.my_ui.Topbar>
+
+</RelativeLayout>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="content_view_bg">#ffe8eaed</color>  
+	<color name="drop_down_list_header_font_color">#000000</color>
+	<!-- drop down list header second font color -->
+	<color name="drop_down_list_header_second_font_color">#000000</color>
+	<!-- drop down list footer font color -->
+	<color name="drop_down_list_footer_font_color">#000000</color> 
+    <color name="none">#00000000</color>
+    <color name="none_thin">#77000000</color>
+    <color name="black_transparent">#aa000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffde0000</color>
+    <color name="dullred">#ffbc4c4c</color>
+    <color name="orange">#ffef6800</color>
+    <color name="green">#ff228b22</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="gray">#ff888888</color>
+    <color name="lightgrey">#ffebe7db</color>
+    <color name="text_tint">#ffcccccc</color>
+    <color name="text_grey">#ff999999</color>
+    <color name="text_black">#ff666666</color>
+    <color name="text_dark">#ff333333</color>
+    <color name="text_blue">#ff6992cc</color>
+    <color name="text_red">#ffde0000</color>
+    <color name="text_dark_yellow">#ff904c0f</color>
+    <color name="text_dark_green">#ff246423</color>
+    <color name="text_dark_blue">#ff255581</color>
+    <color name="bg_black">#ff303030</color>
+    <color name="bottom_button_bg">#ffececec</color>
+    <color name="text_view_border">#ffd6d6d6</color>
+    <color name="index_page_bg">#fff2f2f2</color>
+    <color name="index_page_bg_s">#99dbd3c6</color>
+    <color name="red_light">#ffb92402</color>
+    <color name="lightyellow_cover">#44a78d64</color>
+    <color name="line_color">#77d3d4d6</color>
+    <color name="more_list_cover">#55a78d64</color>
+    <color name="round_progress_bar_bg_off">#fffdfdfd</color>
+    <color name="bao">#ff87a900</color>
+    <color name="buy_lottery_content_title">#ff666666</color>
+    <color name="buy_lottery_count_down">#ff0756a0</color>
+    <color name="prompt_txt">#ff267524</color>
+    <color name="input_box_name">#ff9f9f9f</color>
+    <color name="content_txt_red_C">#ffcc0000</color>
+    <color name="content_txt_6">#ff666666</color>
+    <color name="content_txt_A">#ffaaaaaa</color>
+    <color name="content_txt_red">#ffbc4c4c</color>
+    <color name="progress_grey">#ffdfdfdf</color>
+    <color name="progress_red_start">#fff34a33</color>
+    <color name="progress_green_start">#ffa5be3f</color>
+    <color name="charts_yellow_bg_color">#ff6ab228</color>
+    <color name="combine_dark_orange">#fffe4606</color>
+    <color name="combine_light_orange">#fffe7509</color>
+    <color name="round_table_side">#ffffffff</color>
+    <color name="round_table_char">#fff5fe60</color>
+    <color name="gray_thin">#ffe3e3e3</color>
+    <color name="green_2ca403">#ff2ca403</color>
+    <color name="gray_777777">#ff777777</color>
+    <color name="none_70">#bb000000</color>
+    <color name="red_e54f46">#ffe54f46</color>
+    <color name="none_red_60">#aa612421</color>
+    <color name="jc_liansai_color">#bb8c625b</color>
+    <drawable name="transparent_background">#00000000</drawable>
+    
+    <color name="title_header_color">#14C5C0</color>
+    <color name="title_header_color_light">#C5F8F7</color>
+    <color name="w">#EAF3FD</color>
+    <color name="hui">#666666</color>
+    <color name="backColor">#6E88B6</color>
+     <!-- 浅灰色 -->
+  <color  name="mycolor">#EFEFEF</color>
+  <color name="button_bloue_color_light">#6E88B6</color>
+  <color name="bottomhead">#2C2B32</color>   <!-- 底部背景色 -->
+  <color name="bhead">#28A7E1</color>   <!-- 底部文字 -->
+  <color  name="mysplash">#419AF8</color>
+   <color  name="mgold">#FFA500</color>  
+   <color name="_disa">#D5D5D5</color>
+   <color  name="mdialog">#393A3F</color>
+   <color name="lefthead">#14C5BF</color> 
+   <color name="purple">#697EBE</color>
+   <color name="myellow">#F8F288</color>
+   <color name="btitle">#506287</color>
+   <color name="m_blue">#00BDEE</color>
+   <color name="isread">#68CDCC</color>
+   <color name="grey">#808080</color>
+   
+   <color name="lightsalmon">#FFA07A</color>
+    <color name="coral">#FF7F50</color>
+    <color name="linen">#FAF0E6</color>
+    <color name="antiquewhite">#FAEBD7</color>
+    <color name="lightcoral">#F08080</color>
+    
+     <color name="contents_text">#ff000000</color>
+  <color name="encode_view">#ffffffff</color>
+  <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+  <color name="result_minor_text">#ffc0c0c0</color>
+  <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+  <color name="result_text">#ffffffff</color>
+  <color name="result_view">#b0000000</color>
+  <color name="status_text">#ffffffff</color>
+  <color name="transparent">#00000000</color>
+  <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+  <color name="viewfinder_mask">#60000000</color>
+   <color name="scan_bg">#7f000000</color>
+    <color name="dyellow">#FF7150</color>
+   
+</resources>
