@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
 			
 			@Override
 			public void rightClick() {
-				Toast.makeText(MainActivity.this, "·µ»Ø", Toast.LENGTH_SHORT).show();
+				Toast.makeText(MainActivity.this, "·µ»Ø!", Toast.LENGTH_SHORT).show();
 			}
 			
 			@Override
